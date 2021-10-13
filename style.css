@@ -1,0 +1,33 @@
+.heading{
+    width: 100%;
+    text-align: left;
+    font-size: 23px;
+}
+
+.heading button{
+    float: right;
+}
+
+#playgame{
+    font-size: 20px;
+}
+#status{
+    font-size: 18px;
+}
+#footer{
+    width: 100%;
+    background-color: white;
+    font-size: 20px;
+    bottom: 0;
+}
+.img_instruction{
+    width: 45%;
+}
+
+
+video{
+    background: url('game_console.png');
+    background-position: center;
+    background-size: cover;
+    padding: 22px;
+}
